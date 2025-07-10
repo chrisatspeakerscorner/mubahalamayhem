@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 423e02227d9ec144fa2a594f5af12290
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1577
+        width: 311
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3eaea5815035746a8e941fde74978f
+      internalID: 1357354133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1571
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0bc12c44157dc4bba0f4da07b80e38
+      internalID: 1631312624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1575
+        width: 314
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0708982269b3c944da668afe0e2c5d55
+      internalID: 647450375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1574
+        width: 331
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5584af7882ad1944a16399dda462c68
+      internalID: 536133149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1571
+        width: 292
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce3d1a9801727428e098fe32ef0d16
+      internalID: -2039134189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1202
+        width: 250
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9965d042a0533d43a6eba059eb25a82
+      internalID: -1699527121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1191
+        width: 334
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2855c395af50b84880529935f98c8bf
+      internalID: -1752763738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1203
+        width: 293
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e118b95ced34499aec28cfb5a0721
+      internalID: 807320026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1195
+        width: 146
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ada1b86ff375d48a11c4557ca402c9
+      internalID: -665144429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1199
+        width: 296
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa6f8e1cc04d6a44a5f97659dbb94e6
+      internalID: -89072022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 833
+        width: 239
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56133acdf1fd25a4c92e6ad5e7328ef3
+      internalID: 1352242316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 830
+        width: 366
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02452e64d3ac138499e44f65857e16e6
+      internalID: -2010037192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 835
+        width: 297
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c69d6c0bb01ad4092f96d4fe26fc2d
+      internalID: -1494972504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 826
+        width: 346
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57c69cf064878499691cb6a6f8bcca
+      internalID: 2017219455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 829
+        width: 297
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68271dab23adda4082fa53716dfc1f1
+      internalID: -610753659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 457
+        width: 340
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c24e80a49a5854eacbd77df6863786
+      internalID: 1107417094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 463
+        width: 289
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71137e7e8e55c874ca0975c18accdaad
+      internalID: 1909117159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 457
+        width: 291
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4096366558975dc4a9a3fa8843d9f725
+      internalID: -1257441009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 458
+        width: 300
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27516eda2d33fcc4b99a5b2dd0c5f862
+      internalID: -1650338102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 455
+        width: 321
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c94498d44e8f5e43ab72de5373a0a18
+      internalID: 760456594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 102
+        width: 317
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03005255029f5c8418567a73d34b4ef2
+      internalID: -79402272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 102
+        width: 399
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c8fd0c80be6a84c9a1150e573318d6
+      internalID: -107631937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 102
+        width: 319
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545e1b22a0d37094384646905c3fbc40
+      internalID: 801851609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 102
+        width: 303
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9399a7c47dec034f9bee4346ab66f07
+      internalID: 642655640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 102
+        width: 272
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e313652b0ddb4897ddd65ac4aec82
+      internalID: 1950821160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontdouble-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1195
+        width: 258
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65937320ff45a1f4890456350f3c04ef
+      internalID: 1701832385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0511ae670e62b9c4bac5c807038eefc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fontdouble-Photoroom_0: 1357354133
+      fontdouble-Photoroom_1: 1631312624
+      fontdouble-Photoroom_10: 1352242316
+      fontdouble-Photoroom_11: -2010037192
+      fontdouble-Photoroom_12: -1494972504
+      fontdouble-Photoroom_13: 2017219455
+      fontdouble-Photoroom_14: -610753659
+      fontdouble-Photoroom_15: 1107417094
+      fontdouble-Photoroom_16: 1909117159
+      fontdouble-Photoroom_17: -1257441009
+      fontdouble-Photoroom_18: -1650338102
+      fontdouble-Photoroom_19: 760456594
+      fontdouble-Photoroom_2: 647450375
+      fontdouble-Photoroom_20: -79402272
+      fontdouble-Photoroom_21: -107631937
+      fontdouble-Photoroom_22: 801851609
+      fontdouble-Photoroom_23: 642655640
+      fontdouble-Photoroom_24: 1950821160
+      fontdouble-Photoroom_25: 1701832385
+      fontdouble-Photoroom_3: 536133149
+      fontdouble-Photoroom_4: -2039134189
+      fontdouble-Photoroom_5: -1699527121
+      fontdouble-Photoroom_6: -1752763738
+      fontdouble-Photoroom_7: 807320026
+      fontdouble-Photoroom_8: -665144429
+      fontdouble-Photoroom_9: -89072022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
